@@ -1,0 +1,45 @@
+.BasketContainer {
+    display: flex;
+    flex-direction: column; /* Ensure items are stacked vertically */
+    align-items: flex-start; /* Align items to the left */
+    margin-left: 20px;
+}
+
+.BasketHeader {
+    display: flex;
+    align-items: center; /* Center items horizontally within the header */
+}
+
+.BasketLogo img {
+    height: 30px;
+    width: auto;
+    margin-right: 10px;
+}
+
+.DeleteButton {
+    border: none;
+    background-color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.DeleteButton:hover {
+    background-color: red;
+    color: #fff;
+}
+
+.BasketItems {
+    margin-top: 10px;
+}
+
+.BasketItems ul {
+    list-style: none;
+    padding: 0;
+}
+
+.BasketItems li {
+    margin-bottom: 5px;
+}

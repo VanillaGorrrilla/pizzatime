@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "prices": [5.99, 8.99, 11.99, 14.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BBQ",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Feast",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hot and Spicy",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Meaty Extreme",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 7,
+    "name": "New Yorker",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Vegi Volcano",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tuna Supreme",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pineapple",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mozzarella Melt ",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Vegan Chicken Supreme",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Vegan Texas BBQ",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Leafy Green",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Omar Special",
+    "prices": [6.99, 9.99, 12.99, 15.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 16,
+    "name": "50/50",
+    "prices": [7.99, 10.99, 13.99, 16.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "bases": ["Thin Italian", "Stone Crust", "Cheese Stuffed Crust", "Vegan", "Gluten-Free"],
+    "image": "garlicBread.jpg",
+    "selectedHalves": []
+  }
+]

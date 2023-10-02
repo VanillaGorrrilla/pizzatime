@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Salad",
+    "prices": [3.99, 5.99, 7.99, 9.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Garlic Bread",
+    "prices": [4.99, 6.99, 8.99, 10.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cheesy Garlic Bread",
+    "prices": [4.99, 6.99, 8.99, 10.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Coleslaw",
+    "prices": [4.99, 6.99, 8.99, 10.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "image": "garlicBread.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chicken Wings",
+    "prices": [4.99, 6.99, 8.99, 10.99],
+    "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
+    "image": "garlicBread.jpg"
+  }
+]
