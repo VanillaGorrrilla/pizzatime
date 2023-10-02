@@ -4,7 +4,7 @@
     "name": "Salad",
     "prices": [3.99, 5.99, 7.99, 9.99],
     "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
-    "image": "garlicBread.jpg"
+    "image": "salad.png"
   },
   {
     "id": 2,
@@ -25,13 +25,13 @@
     "name": "Coleslaw",
     "prices": [4.99, 6.99, 8.99, 10.99],
     "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
-    "image": "garlicBread.jpg"
+    "image": "coleslaw.png"
   },
   {
     "id": 5,
     "name": "Chicken Wings",
     "prices": [4.99, 6.99, 8.99, 10.99],
     "sizes": ["Small", "Medium", "Large", "Pizzanormous"],
-    "image": "garlicBread.jpg"
+    "image": "chickenWings.jpg"
   }
 ]

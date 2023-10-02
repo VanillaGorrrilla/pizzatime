@@ -4,34 +4,34 @@
     "name": "Pepsi",
     "prices": [1.99, 2.99, 3.99, 4.99],
     "sizes": ["Small", "Medium", "Large", "Super Size"],
-    "image": "garlicBread.jpg"
+    "image": "pepsi.png"
   },
   {
     "id": 2,
     "name": "Pepsi Max",
     "prices": [1.99, 2.99, 3.99, 4.99],
     "sizes": ["Small", "Medium", "Large", "Super Size"],
-    "image": "garlicBread.jpg"
+    "image": "pepsiMax.png"
   },
   {
     "id": 3,
     "name": "Dr Pepper",
     "prices": [1.99, 2.99, 3.99, 4.99],
     "sizes": ["Small", "Medium", "Large", "Super Size"],
-    "image": "garlicBread.jpg"
+    "image": "drPepper.png"
   },
   {
     "id": 4,
     "name": "7-Up",
     "prices": [1.99, 2.99, 3.99, 4.99],
     "sizes": ["Small", "Medium", "Large", "Super Size"],
-    "image": "garlicBread.jpg"
+    "image": "7Up.png"
   },
   {
     "id": 5,
     "name": "Tango",
     "prices": [1.99, 2.99, 3.99, 4.99],
     "sizes": ["Small", "Medium", "Large", "Super Size"],
-    "image": "garlicBread.jpg"
+    "image": "tango.png"
   }
 ]
