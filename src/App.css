@@ -1,13 +1,14 @@
 .LogoAndTitle {
   display: flex;
   align-items: center;
-  margin-left: 20px;
+  background-color: rgba(255, 0, 0, 0.84);
 }
 
 .Logo img {
   height: 50px;
   width: auto;
   margin-right: 10px;
+  background-color: rgba(255, 0, 0, 0.84);
 }
 
 .ContentWrapper {
@@ -15,6 +16,7 @@
   justify-content: space-between;
   align-items: flex-start;
   height: 100%;
+  background-color: rgba(255, 106, 0, 0.84);
 }
 
 .PizzaOptions {
@@ -26,4 +28,3 @@
   margin-right: 20px;
 }
 
-/* Add any additional styles you need */
